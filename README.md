@@ -1,0 +1,1 @@
+This project is my first project utilizing the skills I have been learning through the Odin Project. I am demonstarting my programming knowledge in HTML as well as my system knowledge of Git and Bash.
