@@ -1,1 +1,3 @@
 This project is my first project utilizing the skills I have been learning through the Odin Project. I am demonstarting my programming knowledge in HTML as well as my system knowledge of Git and Bash.
+
+In this project I learned a lot about the application of HTML and faced some issues and learning oppurtunities in Git and HTML. Overall, I feel that I gained valuable experience in formatting HTML pages and working with Git repositories.
